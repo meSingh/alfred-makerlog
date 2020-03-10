@@ -17,7 +17,7 @@ $ makerlog login --username "your_username" --password "your_password"
 ```
 > makerlog-cli does not store your username or password, it only uses them to get a token from Makerlog.
 
-Then download the [latest version here](#) & open it in Alfred to install this workflow.
+Then download the [latest version here](https://github.com/meSingh/alfred-makerlog/releases/latest) & open it in Alfred to install this workflow.
 
 ## Usage
 
@@ -35,6 +35,12 @@ In Alfred, type `inprogress`, <kbd>Enter</kbd>, and some text, to create a inpro
 In Alfred, type `done`, <kbd>Enter</kbd>, and some text, to create a done task in makerlog.
 
 ![done](/screenshots/done.png)
+
+## Feedback
+
+Please submit your feedback here:
+[https://airtable.com/shrtNX2D8TImBXlGE](https://airtable.com/shrtNX2D8TImBXlGE)
+
 
 ## License
 
