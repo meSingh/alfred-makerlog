@@ -1,0 +1,13 @@
+{
+  "alfredworkflow" : {
+    "category" : "Productivity",
+    "readme" : "MakerlogFlow lets you to add new todo, inprogress & done tasks to Makerlog directly using makerlog-cli.",
+    "createdby" : "Mandeep Singh",
+    "downloadurl" : "",
+    "version" : "1.0",
+    "bundleid" : "desi.khurafat.makerlog",
+    "description" : "Mange your product todo list on getmakerlog.com",
+    "name" : "MakerlogFlow",
+    "webaddress" : "https:\/\/www.msingh.com"
+  }
+}
